@@ -1,0 +1,16 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Fira Sans", sans-serif;
+	color: rgb(54, 54, 54);
+}
+
+i {
+	cursor: pointer;
+}
+
+.is--hidden {
+	opacity: 0;
+	pointer-events: none;
+}
